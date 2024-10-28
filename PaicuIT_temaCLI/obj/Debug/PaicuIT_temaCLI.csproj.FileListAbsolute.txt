@@ -11,3 +11,16 @@ D:\Visual Studio\PaicuIT_temaCLI\obj\Debug\PaicuIT_temaCLI.csproj.CoreCompileInp
 D:\Visual Studio\PaicuIT_temaCLI\obj\Debug\PaicuIT_.6A981878.Up2Date
 D:\Visual Studio\PaicuIT_temaCLI\obj\Debug\PaicuIT_temaCLI.exe
 D:\Visual Studio\PaicuIT_temaCLI\obj\Debug\PaicuIT_temaCLI.pdb
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\bin\Debug\PaicuIT_temaCLI.exe.config
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\bin\Debug\PaicuIT_temaCLI.exe
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\bin\Debug\PaicuIT_temaCLI.pdb
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\bin\Debug\OpenTK.dll
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\bin\Debug\OpenTK.pdb
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\bin\Debug\OpenTK.xml
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\obj\Debug\PaicuIT_temaCLI.csproj.AssemblyReference.cache
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\obj\Debug\PaicuIT_temaCLI.Properties.Resources.resources
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\obj\Debug\PaicuIT_temaCLI.csproj.GenerateResource.cache
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\obj\Debug\PaicuIT_temaCLI.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\obj\Debug\PaicuIT_.6A981878.Up2Date
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\obj\Debug\PaicuIT_temaCLI.exe
+D:\Visual Studio\Repo\PaicuIT_temaCLI\PaicuIT_temaCLI\obj\Debug\PaicuIT_temaCLI.pdb
